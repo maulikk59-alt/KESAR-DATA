@@ -1,0 +1,5 @@
+{
+  "name": "KESAR ControlSYSTEM",
+  "description": "Mobile-first production control system for continuous groundnut oil expeller lines. Features automatic yield calculation, stock enforcement, and real-time alerts.",
+  "requestFramePermissions": []
+}
